@@ -1,0 +1,11 @@
+META-INF/
+META-INF/MANIFEST.MF
+WEB-INF/
+WEB-INF/classes/
+index.jsp
+WEB-INF/web.xml
+META-INF/maven/
+META-INF/maven/com.cte/
+META-INF/maven/com.cte/testweb/
+META-INF/maven/com.cte/testweb/pom.xml
+META-INF/maven/com.cte/testweb/pom.properties
